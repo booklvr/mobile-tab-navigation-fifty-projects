@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import MobileTabNavigation from './components/MobileTabNavigation'
 
 const App = () => {
-  return <placeholder />
+  return <MobileTabNavigation />
 }
 
 export default App
